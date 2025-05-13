@@ -3,7 +3,7 @@
 
 ---
 
-### <span style="color:green">**About Me**</span>
+### <h3><span style="color:green">About Me</span></h3>
 
 - 🔭 I’m currently working on **iBite**, an AR-powered food discovery app  
 - 🌱 I’m learning SwiftUI, Firebase, and realityKit  
