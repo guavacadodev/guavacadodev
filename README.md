@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Guavacado</h1>
+<h1 align="center">Hey there, I'm Guavacado 👋</h1>
 <h3 align="center">iOS Developer • Founder of iBite 🍽 • Future Tech CEO</h3>
 
 ---
