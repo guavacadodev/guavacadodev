@@ -1,9 +1,9 @@
 <h1 align="center">Hey there, I'm Guavacado 👋</h1>
-<h3 align="center">iOS Developer • Founder of iBite 🍽 • Future Tech CEO</h3>
+<h3 align="center">Software Engineer • Founder of iBite </h3>
 
 ---
 
-### 🚀 About Me
+### <span style="color:green">**About Me**</span>
 
 - 🔭 I’m currently working on **iBite**, an AR-powered food discovery app  
 - 🌱 I’m learning SwiftUI, Firebase, and realityKit  
