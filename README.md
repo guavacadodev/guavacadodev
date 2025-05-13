@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Guavacado Banner" width="100%" />
-</p>
+
 
 <h1 align="center"><span style="color:green">🥑 Guavacado</span></h1>
 <h3 align="center"><span style="color:green">iOS Developer • AR Enthusiast • Creator of iBite 🍽</span></h3>
