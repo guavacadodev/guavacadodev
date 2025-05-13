@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Guavacado Banner" width="100%" />
+  <img src="banner-v2.png" alt="Guavacado Banner" width="100%" />
 </p>
 
 <h1 align="center"><span style="color:green">🥑 Guavacado</span></h1>
