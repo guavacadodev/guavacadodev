@@ -36,7 +36,7 @@
 <h3><span style="color:green">📈 GitHub Stats</span></h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jake Woodall&show_icons=true&theme=tokyonight" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=guavacado&show_icons=true&theme=tokyonight" width="49%">
 </p>
 
 ---
