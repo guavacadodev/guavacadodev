@@ -44,7 +44,7 @@
 <h3><span style="color:green">📫 How to Reach Me</span></h3>
 
 - X: [@guavacado](https://twitter.com/imguav)  
-- Email: `contact@jake.ibite.app`  
+- Email: `jake@ibite.app`  
 - Website: [Portfolio Site](https://hoppergames.wixsite.com/website)
 
 ---
