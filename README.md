@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="banner-v3.png" alt="Guavacado Banner" width="100%" />
 </p>
-
-<h1 align="center"><span style="color:green">Hey there, I'm Jake Woodall</span></h1>
-<h3 align="center"><span style="color:green">Software Engineer • Founder of iBite 🍽</span></h3>
 
 ---
 
