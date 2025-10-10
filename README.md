@@ -1,7 +1,7 @@
 open for work
 
 - X: [@guavacado](https://twitter.com/imguav)  
-- Email: `jakewoodall001@gmail.com`  
+- Email: `jake.woodall@ibite.app`  
 - Website: [Portfolio Site](https://hoppergames.wixsite.com/website)
 
 ---
