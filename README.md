@@ -2,8 +2,7 @@
 
 Software Engineer • Founder
 
-I’m a Seattle-based software engineer with 5+ years of experience building production-ready applications across iOS, web, and backend systems. I specialize in turning complex ideas into clean, scalable products—from early prototypes to launch-ready MVPs.
-I’m the founder of iBite Technologies, where I design and build full-stack consumer products that blend mobile, AR, real-time systems, and modern backend architecture.
+I am from Seattle, WA. I like making iOS apps. But I can make anything ;)
 
 I am currently working on iBite. A next-generation food and rewards platform that combines:
 
