@@ -14,12 +14,6 @@ I am currently working on iBite. A next-generation food and rewards platform tha
 
 📬 Open for Work
 
-I’m open to:
-
-- Full-time roles
-- Contract / consulting work
-- Startup collaborations
-
 Contact:
 
 - X (Twitter): @guavacado
