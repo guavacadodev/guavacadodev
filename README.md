@@ -4,13 +4,7 @@ Software Engineer • Founder
 
 I am from Seattle, WA. I like making iOS apps. But I can make anything ;)
 
-I am currently working on iBite. A next-generation food and rewards platform that combines:
-
-- iOS (Swift / SwiftUI)
-- Real-time data & Firebase
-- Location-based experiences
-- Gamified digital economies
-- AR-driven restaurant discovery
+I am currently working on iBite.
 
 📬 Open for Work
 
